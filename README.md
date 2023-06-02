@@ -51,10 +51,10 @@ The two line of codes are
 
 ![](job_12.png)
 
+![](Age_avg.jpg)
+
 ## Data Filtering and Aggregation:
 
 1. Find the number of clients who subscribed to a term deposit.
-2. Calculate the percentage of clients who subscribed to a term deposit.
-3. Get the count of clients by job or education level.
-
+2. Get the count of clients by education level.
 
