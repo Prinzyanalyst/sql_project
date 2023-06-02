@@ -46,6 +46,8 @@ The two line of codes are
 1. Retrieve the number of records in the dataset. we'll limit the output to the first ten rows to keep the output clean
 2. Get the distinct values of categorical variables (e.g., job, education, marital status).
 
+![](top_10.png)
 
+![](job_12.png)
 
 
