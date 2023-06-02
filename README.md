@@ -67,6 +67,6 @@ I performed Data exporation to help understand the dataset better and also perfo
 ## Data Analysis:
 1. Find the education level with the highest success rate for term deposits
 
-![](Deposit_where)
+![](Deposit_where.png)
 
 2. Calculate the average age of clients who subscribed to a term deposit, grouped by job.
