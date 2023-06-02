@@ -28,6 +28,10 @@ The following skills were demonstrated in this project.
 ## Importing CSV data to MYSQL.
  
  In this section I import the dataset I will be using for the project.
- - first I created a database named projects.
+ - First, I created a database named projects.
+
+![](Create_database.png)
+
+- Secondly, I used the Table Data import Wizard in MYSQL to import the bank table from my local storage.
  
 
