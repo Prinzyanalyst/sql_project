@@ -1,4 +1,4 @@
-# International debt statistics from the World Bank
+# International debt statistics For Individual Debetors
 
 ![](Work_bank.jpg)
 
@@ -34,4 +34,16 @@ The following skills were demonstrated in this project.
 
 - Secondly, I used the Table Data import Wizard in MYSQL to import the bank table from my local storage.
  
+![](Import_wizard.png)          
+
+![](Import_process.png)
+
+## **Data Exploration**
+I performed Data exporation to help understand the dataset better and also perform a statistical analyses holistically.
+
+The two line of codes are
+
+1. Retrieve the number of records in the dataset.
+2. Get the distinct values of categorical variables (e.g., job, education, marital status).
+
 
