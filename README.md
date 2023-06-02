@@ -14,12 +14,21 @@ We will examine data on global debt gathered by The World Bank in this project. 
 2. Which nation holds the most debt, and what does that debt look like?
 3. What is the average level of debt held by nations according to various debt indicators?
 
-## Skill/ Concepts Demonstrated.
+## Skills/Concepts Demonstrated.
 
-The following skill was demonstrated in this project.
+The following skills were demonstrated in this project.
 - importing csv data to mysql
 - sql knowledge.
 
 ## 1. Understanding the data
 
-The first line of code establishes a connection to the database Project, where the table named bank is located. First, let's SELECT data from the bank table across all columns. To make the output tidy, we'll also restrict the output to the first ten rows.
+The first line of code establishes a connection to the database **Project**, where the table **named** bank is located. First, let's SELECT data from the **bank** table across all columns. To make the output tidy, we'll also restrict the output to the first ten rows.
+
+![](top_countries.png)
+
+## 2. Finding the number of distinct countries
+
+The first ten rows show the various debt indicators and the total amount of debt owed by Afghanistan. However, we are unsure of how many different nations are on the table. Because a country is most likely to have debt in more than one debt indicator, there are repetitions in the country names.
+
+We won't be able to conduct our statistical studies comprehensively without a count of distinct countries. The number of distinct countries contained in the table will be extracted and shown in this section.
+
