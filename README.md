@@ -45,9 +45,16 @@ The two line of codes are
 
 1. Retrieve the number of records in the dataset. we'll limit the output to the first ten rows to keep the output clean
 2. Get the distinct values of categorical variables (e.g., job, education, marital status).
+3. Calculate the average age of the clients.
 
 ![](top_10.png)
 
 ![](job_12.png)
+
+## Data Filtering and Aggregation:
+
+1. Find the number of clients who subscribed to a term deposit.
+2. Calculate the percentage of clients who subscribed to a term deposit.
+3. Get the count of clients by job or education level.
 
 
