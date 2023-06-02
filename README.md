@@ -17,7 +17,7 @@ We will examine data on global debt gathered by Kaggle in this project. The data
 ## Skills/Concepts Demonstrated.
 
 The following skills were demonstrated in this project.
-- importing CSV data to MYSQL
+- Importing CSV data to MYSQL
 - Data Exploration
 - Data Filtering and Aggregation
 - Data Analysis
@@ -25,4 +25,9 @@ The following skills were demonstrated in this project.
 - Joining Tables.
 
 
+## Importing CSV data to MYSQL.
+ 
+ In this section I import the dataset I will be using for the project.
+ - first I created a database named projects.
+ 
 
