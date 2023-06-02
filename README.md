@@ -62,3 +62,8 @@ The two line of codes are
 
 ![](Edcation_level.jpg)
 
+
+## Data Analysis:
+1. Find the education level with the highest success rate for term deposits
+2. Calculate the average age of clients who subscribed to a term deposit, grouped by job.
+
