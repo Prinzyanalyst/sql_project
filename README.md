@@ -70,3 +70,23 @@ I performed Data exporation to help understand the dataset better and also perfo
 ![](Deposit_where.png)
 
 2. Calculate the average age of clients who subscribed to a term deposit, grouped by job.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
