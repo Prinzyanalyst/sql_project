@@ -71,10 +71,13 @@ I performed Data exporation to help understand the dataset better and also perfo
 
 2. Calculate the average age of clients who subscribed to a term deposit, grouped by job.
 
+![](Job_r.png)
 
 
-
-
+## Sorting and Ranking:
+1. Rank the clients based on their balance in descending order.
+2. Find the top 10 clients with the highest balance.
+3. Rank the jobs based on the number of clients in each job category.
 
 
 
