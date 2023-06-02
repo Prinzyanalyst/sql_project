@@ -58,3 +58,7 @@ The two line of codes are
 1. Find the number of clients who subscribed to a term deposit.
 2. Get the count of clients by education level.
 
+![](Debtors_yes_no.jpg)
+
+![](Edcation_level.jpg)
+
