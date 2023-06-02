@@ -41,29 +41,32 @@ The following skills were demonstrated in this project.
 ## **Data Exploration**
 I performed Data exporation to help understand the dataset better and also perform a statistical analyses holistically.
 
-The two line of codes are
-
 1. Retrieve the number of records in the dataset. we'll limit the output to the first ten rows to keep the output clean
-2. Get the distinct values of categorical variables (e.g., job, education, marital status).
-3. Calculate the average age of the clients.
 
 ![](top_10.png)
 
+2. Get the distinct values of categorical variables (e.g., job, education, marital status).
+
 ![](job_12.png)
+
+3. Calculate the average age of the clients.
 
 ![](Age_avg.jpg)
 
 ## Data Filtering and Aggregation:
 
 1. Find the number of clients who subscribed to a term deposit.
-2. Get the count of clients by education level.
 
 ![](Debtors_yes_no.jpg)
+
+2. Get the count of clients by education level.
 
 ![](Edcation_level.jpg)
 
 
 ## Data Analysis:
 1. Find the education level with the highest success rate for term deposits
-2. Calculate the average age of clients who subscribed to a term deposit, grouped by job.
 
+![](edcation_deposit.png)
+
+2. Calculate the average age of clients who subscribed to a term deposit, grouped by job.
