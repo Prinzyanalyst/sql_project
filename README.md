@@ -1,8 +1,10 @@
-# International debt statistics For Individual Debetors
+International debt statistics For Individual Debetors
+=====================================================
 
 ![](Work_bank.jpg)
 
-## INTRODUCTION
+INTRODUCTION
+-------------
 
 It's not just that we as people take on debt to pay for our needs. A **nation** may also borrow money to run its economy. For instance, one expensive component necessary for a nation's population to live pleasant lifestyles is infrastructure spending. We will examine data on global debt gathered by Kaggle on individual loan pattern.
 
